@@ -214,5 +214,6 @@ bar {
 }
 
 # Setting the wallpaper with feh
-exec_always feh --bg-fill /home/salekeen/Pictures/thumb-1920-914670.jpg
+### FEH SETUP ###
+exec_always feh --bg-scale /home/salekeen/Pictures/thumb-1920-914670.jpg
 exec_always compton -f 
