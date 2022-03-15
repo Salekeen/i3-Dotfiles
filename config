@@ -216,5 +216,5 @@ bar {
 
 # Setting the wallpaper with feh
 ### FEH SETUP ###
-exec_always feh --bg-scale /home/salekeen/Pictures/thumb-1920-914670.jpg
+exec_always feh --bg-scale /home/salekeen/Pictures/Wallpaper/tower-nord.png
 exec_always compton -f 
